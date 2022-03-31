@@ -1,0 +1,59 @@
+.background {
+    background-color: bisque;
+}
+.h1_content {
+    text-align: center;
+    color: darkolivegreen;
+    margin-top: 20px;
+}
+.dog_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 550px;
+    object-fit: cover;
+}
+.info {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.golden {
+    color: darkgoldenrod;
+}
+.search_bar_div {
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.search_bar {
+    width: 38%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+    border-color: white;
+    border-radius: 10px 10px 10px 10px;
+    border-style: solid;
+    border-shadow: None;
+}
+.submit {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: white;
+    border-left: none;
+    color: gray;
+    border-color: white;
+    border-shadow: None;
+    border-radius: 5px 5px 5px 5px;
+
+}
+.bottom_margin {
+    margin-bottom: 5px;
+}
