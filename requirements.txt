@@ -1,0 +1,6 @@
+certifi==2021.10.8
+Flask==2.0.3
+Jinja2==3.0.3
+MarkupSafe==2.1.0
+redis==4.2.1
+Werkzeug==2.0.3
